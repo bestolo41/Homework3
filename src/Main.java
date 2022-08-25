@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Значение переменной hours с типом int равно " + hours);
         System.out.println("Значение переменной seconds с типом long равно " + seconds);
         System.out.println("Значение переменной weeksExact02 с типом float равно " + weeksExact02);
-        System.out.println("Значение переменной weeksExact12 с типом double равно" + weeksExact12);
+        System.out.println("Значение переменной weeksExact12 с типом double равно " + weeksExact12);
 
         // задание 2
 
